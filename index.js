@@ -11,14 +11,17 @@ function scuberGreetingForFeet(totalDistance) {
   }
 }
 
+
+city = 'NYC' ? "Ok, sounds good." : "No go.";
+
 // function ternaryCheckCity(check) {
 //   (city = 'NYC') ? 'Ok, sounds good.' : 'No go.';
 // }
 // const ternaryCheckCity = (city = 'NYC') ? 'Ok, sounds good.':'No go.';
 
 
-const city = 'NYC';
-let check = true;
-function ternaryCheckCity(city) {
-  city = 'NYC' ? 'Ok, sounds good.' : 'No go.';
-}
+// const city = 'NYC';
+// let check = true;
+// function ternaryCheckCity(city) {
+//   city = 'NYC' ? 'Ok, sounds good.' : 'No go.';
+// }

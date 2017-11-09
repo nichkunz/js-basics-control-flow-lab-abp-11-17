@@ -10,3 +10,6 @@ function scuberGreetingForFeet(totalDistance) {
     return 'No can do.'
   }
 }
+
+// city ternaryCheckCity(city = 'NYC' ? )
+const ternaryCheckCity = city = 'nyc' ? true : false;

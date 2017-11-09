@@ -12,6 +12,6 @@ function scuberGreetingForFeet(totalDistance) {
 }
 
 Function ternaryCheckCity(city) {
-  const isNYC = (city = 'NYC') ? 'Ok, sounds good.' : 'No go.';
+  city = 'NYC') ? 'Ok, sounds good.' : 'No go.';
 }
 // const ternaryCheckCity = (city = 'NYC') ? 'Ok, sounds good.':'No go.';

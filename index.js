@@ -12,7 +12,7 @@ function scuberGreetingForFeet(totalDistance) {
 }
 
 function ternaryCheckCity(city) {
-let city == 'NYC' ? 'Ok, sounds good.' : 'No go.';
+let city = 'NYC' ? 'Ok, sounds good.' : 'No go.';
 }
 // function ternaryCheckCity(city) {
 //   city = 'NYC' ? "Ok, sounds good." : "No go.";

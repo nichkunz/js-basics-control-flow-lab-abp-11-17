@@ -10,7 +10,7 @@ function scuberGreetingForFeet(totalDistance) {
     return 'No can do.'
   }
 }
-// city = '';
+city = '';
 function ternaryCheckCity() {
 checkNyc = city == 'NYC' ? 'Ok, sounds good.' : 'No go.';  
 }

@@ -11,7 +11,9 @@ function scuberGreetingForFeet(totalDistance) {
   }
 }
 // city = '';
-function ternaryCheckCity() = (city = 'NYC') ? 'Ok, sounds good.' : 'No go.';
+function ternaryCheckCity() {
+checkNyc = city == 'NYC' ? 'Ok, sounds good.' : 'No go.';  
+}
 // function ternaryCheckCity(city) {
 //   city = 'NYC' ? "Ok, sounds good." : "No go.";
 // }
